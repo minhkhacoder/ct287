@@ -1,0 +1,9 @@
+translate the regular expression to NFA
+how to convert re of re to fa?
+convert the regular expression to NFA
+your mail cda@yahoo.com.vn
+change this re to dfa
+add @hotmail.com is not a valid, abc.cbd@yahoo.com is ok; but abc-cbd@yahoo not
+translate into english
+what a nice day!
+my email address is abc@gmail.com
